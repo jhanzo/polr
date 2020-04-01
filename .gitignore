@@ -2,7 +2,6 @@
 bootstrap/cache/
 storage/
 env
-.env
 .env.bak
 .env.example
 composer.phar
